@@ -2,3 +2,4 @@ Tamil
 English
 Chinese
 Malay
+Hindi
